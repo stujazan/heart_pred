@@ -17,5 +17,4 @@
 
 # Live Demo
 ### Try the live demo of the project here:
-
-https://heart-health-predictors.herokuapp.com/
+https://heart-health-stujazan.herokuapp.com/
